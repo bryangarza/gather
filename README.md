@@ -11,9 +11,11 @@ You will need [Leiningen][1] 1.7.0 or above installed.
 
 [1]: https://github.com/technomancy/leiningen
 
-Download [Font Awesome][2] to the resources/public directory.
+Use [Bower][2] to the install packages to `resources/public/packages`. Run:
 
-[2]: https://fortawesome.github.io/Font-Awesome/
+    bower install bootstrap jquery-easing-original fontawesome
+
+[2]: https://github.com/bower/bower
 
 ## Running
 

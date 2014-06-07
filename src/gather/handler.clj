@@ -1,10 +1,11 @@
 (ns gather.handler
   (:use compojure.core)
   (:require [compojure.handler :as handler]
-            [compojure.route :as route]))
+            [compojure.route :as route]
+            [gather.views :as views]))
 
 (defroutes app-routes
-  (GET "/" [] "Hello World")
+  (GET "/" [] (views/index))
   (route/resources "/")
   (route/not-found "Not Found"))
 

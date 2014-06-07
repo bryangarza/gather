@@ -1,6 +1,6 @@
 # λ gather λ
 
-Gathers helps create event pages quickly, with minimal effort.
+Gather helps create event pages quickly, with minimal effort.
 
 This is still a WIP, the frontend is halfway done, and the backend has not been
 written. For now it's mostly hiccup + routing.

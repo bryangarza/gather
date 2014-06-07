@@ -1,6 +1,6 @@
 # gather
 
-FIXME
+Gathers helps create event pages quickly, with minimal effort.
 
 ## Prerequisites
 

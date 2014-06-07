@@ -1,5 +1,5 @@
 (defproject gather "0.1.0"
-  :description "gather: a web app to form communities"
+  :description "gather: a web app to create event pages"
   :url "https://github.com/wolfcore/gather"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [compojure "1.1.8"]
